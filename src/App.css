@@ -1,0 +1,87 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header, section, footer {
+  background: #ffffff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header {
+  text-align: center;
+  background: #2c3e50;
+  color: white;
+  border-radius: 8px;
+}
+
+.header nav a {
+  color: #ecf0f1;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.hero {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  background: #3498db;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.project-grid {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.project-card {
+  background: #ecf0f1;
+  padding: 15px;
+  border-radius: 5px;
+  flex: 1;
+  min-width: 250px;
+}
+
+button {
+  background: #2c3e50;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+button:hover {
+  background: #34495e;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #7f8c8d;
+}
