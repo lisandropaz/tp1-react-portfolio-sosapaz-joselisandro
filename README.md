@@ -1,16 +1,20 @@
-# React + Vite
+# TP1 Portfolio React - José Lisandro Sosa Paz - comision 7
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Descripción 
+Portfolio personal desarrollado como trabajo práctico.
 
-Currently, two official plugins are available:
+# Tecnologías utilizadas
+- React
+- Vite
+- JavaScript (JSX)
+- CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Instrucciones para instalar dependencias
+Clona el repositorio y ejecuta en la terminal:
+npm install
 
-## React Compiler
+# Instrucción para ejecutar el proyecto localmente
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Enlace de mi repositorio
+https://github.com/lisandropaz/tp1-react-portfolio-sosapaz-joselisandro
